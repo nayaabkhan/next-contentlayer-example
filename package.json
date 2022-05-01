@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@vanilla-extract/next-plugin": "^2.0.2",
     "contentlayer": "latest",
     "next": "12.1.5",
     "next-contentlayer": "latest",
